@@ -1,4 +1,4 @@
-# 
+# updated JetBrains IntelliJ IDEA PC版 插件 是最佳 JetBrains IntelliJ IDEA PC版 插件，集成 自定义主题 和 自动化工作流。安全、可靠、优化，性能最大化。
 
 
 
